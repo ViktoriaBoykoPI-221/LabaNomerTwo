@@ -1,4 +1,10 @@
-﻿using System;
+/************************
+*   Имя: Бойко Виктория *
+*   Группа: ПИ-221      *
+*   Лабораторная 2      *
+*   Дата: 19.02.23      *
+*************************/
+using System;
 using System.Collections.Generic;
 using System.Xml.Linq;
 
